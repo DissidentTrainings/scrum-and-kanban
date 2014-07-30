@@ -15,7 +15,7 @@ Jeder Aufzählungspunkt steht für ein Segment von 25 Minuten
 
 Mittagspause
 
-* Bau mir einen Prozess - Die Teilnehmer äussern ihre Vorstellungen von den Porzessen die in Scrum enthalten sind 
+* Bau mir einen Prozess - Die Teilnehmer äussern ihre Vorstellungen von den Prozessen die in Scrum enthalten sind 
 * Build me a process
 * Scrum Lego City - Eine Simulation um Scrum aktiv zu erfahren. 
 * Scrum Lego City
